@@ -20,6 +20,6 @@ let programmingLanguage = "JavaScript";
 let isFun = true;
 console.log("9." + programmingLanguage + " is fun: " + isFun);
 //10
-console.log("10." + programmingLanguage[0] +" " programmingLanguage[4]);
+console.log("10." + programmingLanguage[0] + " " + programmingLanguage[4]);
 //11
 console.log("11." + programmingLanguage.length);
