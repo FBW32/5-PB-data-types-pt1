@@ -1,5 +1,5 @@
 let strOne = "HelloLadies";
-console.log(strOne[2], strOne[6]);
+console.log(strOne[1], strOne[5]);
 let name = "arezoo";
 let age = 30;
 let year = 2020;
